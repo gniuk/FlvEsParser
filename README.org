@@ -1,0 +1,11 @@
+* FlvEsParser
+Audio video info parser.
+
+Currently support flv ts es aac opus fully or partially and is going to support more format/codec.
+
+#+caption: main window
+[[file:https://raw.githubusercontent.com/gniuk/FlvEsParser/master/res/mainwin.png]]
+
+#+caption: syntax window
+[[file:https://raw.githubusercontent.com/gniuk/FlvEsParser/master/res/syntaxwin.png]]
+
