@@ -6,7 +6,10 @@ Currently support flv ts es aac opus fully or partially and is going to support 
 Notes:
 
 FlvEsParser.X.AppImage for Linux x86_64 where glibc >= 2.28 (ld -v), chmod +x FlvEsParser.X.AppImage to run;
-FlvEsParser.X.win10.zip for Windows10. Windows11 may able to run, not tested. 
+FlvEsParser.X.win10.zip for Windows10. Windows11 may be able to run, not tested. 
+
+The source code are not public accessible currently due to some reason. Contact me if you need support.
+
 
 #+caption: main window
 [[file:https://raw.githubusercontent.com/gniuk/FlvEsParser/master/res/mainwin.png]]
